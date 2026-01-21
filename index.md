@@ -6,5 +6,4 @@ layout: default
 
 [Other Portfolio Site](https://murphypmccabe-maker.github.io/portfolio-website/)
 
-
-<img scr="Pictures/NightMusic1.jpg" alt="A Little Night Music" width="300" height="200">
+<img src="Pictures/NightMusic1.jpg" alt="NightMusic1" width="300" height="200">
